@@ -1,0 +1,1 @@
+const dataAtual=new Date,anoAtual=dataAtual.getFullYear();document.querySelector(".footer-text").innerHTML=`CANON DO BRASIL - ${anoAtual}`;
